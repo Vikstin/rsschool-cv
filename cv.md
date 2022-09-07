@@ -30,8 +30,7 @@
 |                                    | Website hosting and setup DNS.|
 |                                    |                                  |
 |"AGAT-control systems"              | Electronic engineer 2nd category.|
-|2013 - 2021                         |                                  |
-|                                    | My work experience is associated with writing operational documentation,|
+|2013 - 2021                         | My work experience is associated with writing operational documentation,|
 |                                    | drawing electrical wiring scheme, as well as maintaining internal documentation| 
 |                                    | and documentation for public procurement, working with 1C:Enterprise.|
 ### COURSES (online)
@@ -54,18 +53,17 @@
 ### Code
 ```
 function nthFibo(n) {
-   if(n == 1) {
-     return 0;
- }  
-  else if(n == 2) {    
-    return 1;
- } 
-  else if (n == 3) {
-    return 1;
-  }
-  return nthFibo(n-1) + nthFibo(n-2);
-    
- }
+    if(n == 1) {
+        return 0;
+    }  
+    else if(n == 2) {    
+        return 1;
+    } 
+    else if (n == 3) {
+        return 1;
+    }
+    return nthFibo(n-1) + nthFibo(n-2); 
+}
 ```
 ### Projects
 - [Work project Website](https://gestia-bar.by/)
