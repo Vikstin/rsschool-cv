@@ -51,7 +51,7 @@
 * Russian – Native
 * English – Intermediate
 * Polish – Elementary
-### Code
+### CODE
 ```
 function nthFibo(n) {
     if(n == 1) {
@@ -66,7 +66,7 @@ function nthFibo(n) {
     return nthFibo(n-1) + nthFibo(n-2); 
 }
 ```
-### Projects
+### PROJECTS
 - [Work project Website](https://gestia-bar.by/)
 - [Study project Portfolio](https://js30-video-player-vikstin.netlify.app/)
 - [Study project Memory game](https://memory-game-js3-2-vikstin.netlify.app)
