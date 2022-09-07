@@ -50,5 +50,26 @@ Freelance 2022                      | I have experience in creating websites on 
 * Russian – Native
 * English – Intermediate
 * Polish – Elementary
+### Code
+```
+function nthFibo(n) {
+   if(n == 1) {
+     return 0;
+ }  
+  else if(n == 2) {    
+    return 1;
+ } 
+  else if (n == 3) {
+    return 1;
+  }
+  return nthFibo(n-1) + nthFibo(n-2);
+    
+ }
+```
+### Projects
+[Work project Web-site](https://gestia-bar.by/)
+[Study project Portfolio](https://js30-video-player-vikstin.netlify.app/)
+[Study project Memory game](https://memory-game-js3-2-vikstin.netlify.app)
+[Study project Image gallery](https://image-galery-js-2-2-vikstin.netlify.app)
  
 
