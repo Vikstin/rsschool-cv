@@ -1,6 +1,6 @@
 # **Viktoria Stiniaeva**
 ## **Frontend Developer (JavaScript)**
-![foto](foto.JPEG 'My photo')
+![foto](MyPhoto_CV.jpg 'My photo')
 
 ### CONTACTS
 <p>Linkedin: viktoria-stiniaeva</p>
@@ -10,27 +10,27 @@
 ### ABOUT ME
 <p>My goal is to realize myself through work, to grow and develop as a specialist and as a person. I am interested in the continuous learning process in various fields such as IT, finance, psychology, personal growth.</p>
 
-### EDUCATION       |
---------------------|--------------------------------------------------
-BSUIR 2017-2019     | Master's degree: specialty - virtualization 
-                    | and cloud computing technologies, Master of
-                    | Informatics and Computer Engineering
-                    |
-IIT BSUIR 2013-2017 | Higher education: specialty - information technology 
-                    | and management in technical systems, information
-                    | technology and management engineer
-                    |
-BSAT 2009-2013      | Vocational education: specialty - technical operation
-                    | of telecommunication systems, telecommunications
-                    | technician
+| EDUCATION          |                                                   |
+|--------------------|---------------------------------------------------|
+|BSUIR 2017-2019     | Master's degree: specialty - virtualization|
+|                    | and cloud computing technologies, Master of|
+|                    | Informatics and Computer Engineering|
+|                    |                                      |
+|IIT BSUIR 2013-2017 | Higher education: specialty - information technology| 
+|                    | and management in technical systems, information|
+|                    | technology and management engineer|
+|                    |                                      |
+|BSAT 2009-2013      | Vocational education: specialty - technical operation|
+|                    | of telecommunication systems, telecommunications|
+|                    | technician|
 
-|### WORK EXPERIENCE                 |---------------------------------------------------------------|
+| WORK EXPERIENCE                    |                                                               |
 |------------------------------------|---------------------------------------------------------------|
 |Freelance 2022                      | I have experience in creating websites on platforms Wordpress.|
 |                                    | Website hosting and setup DNS.|
-|------------------------------------|-------------------------------|
+|                                    |                                  |
 |"AGAT-control systems"              | Electronic engineer 2nd category.|
-|2013 - 2021                         |----------------------------------|
+|2013 - 2021                         |                                  |
 |                                    | My work experience is associated with writing operational documentation,|
 |                                    | drawing electrical wiring scheme, as well as maintaining internal documentation| 
 |                                    | and documentation for public procurement, working with 1C:Enterprise.|
@@ -68,9 +68,9 @@ function nthFibo(n) {
  }
 ```
 ### Projects
-<p>[Work project Website](https://gestia-bar.by/)</p>
-<p>[Study project Portfolio](https://js30-video-player-vikstin.netlify.app/)</p>
-<p>[Study project Memory game](https://memory-game-js3-2-vikstin.netlify.app)</p>
-<p>[Study project Image gallery](https://image-galery-js-2-2-vikstin.netlify.app)</p>
+- [Work project Website](https://gestia-bar.by/)
+- [Study project Portfolio](https://js30-video-player-vikstin.netlify.app/)
+- [Study project Memory game](https://memory-game-js3-2-vikstin.netlify.app)
+- [Study project Image gallery](https://image-galery-js-2-2-vikstin.netlify.app)
  
 
