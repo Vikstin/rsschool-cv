@@ -24,16 +24,16 @@ BSAT 2009-2013      | Vocational education: specialty - technical operation
                     | of telecommunication systems, telecommunications
                     | technician
 
-### WORK EXPERIENCE                 |
-------------------------------------|------------------------------------
-Freelance 2022                      | I have experience in creating websites on platforms Wordpress.
-                                    | Website hosting and setup DNS.
-                                    |
-"AGAT-control systems"              | Electronic engineer 2nd category.
-2013 - 2021                         |
-                                    | My work experience is associated with writing operational documentation,
-                                    | drawing electrical wiring scheme, as well as maintaining internal documentation 
-                                    | and documentation for public procurement, working with 1C:Enterprise.
+|### WORK EXPERIENCE                 |---------------------------------------------------------------|
+|------------------------------------|---------------------------------------------------------------|
+|Freelance 2022                      | I have experience in creating websites on platforms Wordpress.|
+|                                    | Website hosting and setup DNS.|
+|------------------------------------|-------------------------------|
+|"AGAT-control systems"              | Electronic engineer 2nd category.|
+|2013 - 2021                         |----------------------------------|
+|                                    | My work experience is associated with writing operational documentation,|
+|                                    | drawing electrical wiring scheme, as well as maintaining internal documentation| 
+|                                    | and documentation for public procurement, working with 1C:Enterprise.|
 ### COURSES (online)
 * JavaScript + React (Udemy, 2022)
 * JavaScript (RS-School; learn.javascript.ru, 2021-2022)
