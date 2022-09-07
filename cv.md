@@ -1,16 +1,17 @@
 # **Viktoria Stiniaeva**
 ## **Frontend Developer (JavaScript)**
-![foto](/foto.JPEG foto)
+![foto](foto.JPEG 'My photo')
 
 ### CONTACTS
-Linkedin: viktoria-stiniaeva
-Phone: +375(29)9670224
-E-mail: stiniaevaviktory@gmail.com
+<p>Linkedin: viktoria-stiniaeva</p>
+<p>Phone: +375(29)9670224</p>
+<p>E-mail: stiniaevaviktory@gmail.com</p>
+
 ### ABOUT ME
 <p>My goal is to realize myself through work, to grow and develop as a specialist and as a person. I am interested in the continuous learning process in various fields such as IT, finance, psychology, personal growth.</p>
 
 ### EDUCATION       |
------------------------------------------------------------------------
+--------------------|--------------------------------------------------
 BSUIR 2017-2019     | Master's degree: specialty - virtualization 
                     | and cloud computing technologies, Master of
                     | Informatics and Computer Engineering
@@ -24,7 +25,7 @@ BSAT 2009-2013      | Vocational education: specialty - technical operation
                     | technician
 
 ### WORK EXPERIENCE                 |
--------------------------------------------------------------------------
+------------------------------------|------------------------------------
 Freelance 2022                      | I have experience in creating websites on platforms Wordpress.
                                     | Website hosting and setup DNS.
                                     |
@@ -67,9 +68,9 @@ function nthFibo(n) {
  }
 ```
 ### Projects
-[Work project Web-site](https://gestia-bar.by/)
-[Study project Portfolio](https://js30-video-player-vikstin.netlify.app/)
-[Study project Memory game](https://memory-game-js3-2-vikstin.netlify.app)
-[Study project Image gallery](https://image-galery-js-2-2-vikstin.netlify.app)
+<p>[Work project Website](https://gestia-bar.by/)</p>
+<p>[Study project Portfolio](https://js30-video-player-vikstin.netlify.app/)</p>
+<p>[Study project Memory game](https://memory-game-js3-2-vikstin.netlify.app)</p>
+<p>[Study project Image gallery](https://image-galery-js-2-2-vikstin.netlify.app)</p>
  
 
