@@ -10,8 +10,8 @@
 ### ABOUT ME
 <p>My goal is to realize myself through work, to grow and develop as a specialist and as a person. I am interested in the continuous learning process in various fields such as IT, finance, psychology, personal growth.</p>
 
-| EDUCATION          |                                                   |
-|--------------------|---------------------------------------------------|
+### EDUCATION
+
 |BSUIR 2017-2019     | Master's degree: specialty - virtualization|
 |                    | and cloud computing technologies, Master of|
 |                    | Informatics and Computer Engineering|
@@ -24,8 +24,8 @@
 |                    | of telecommunication systems, telecommunications|
 |                    | technician|
 
-| WORK EXPERIENCE                    |                                                               |
-|------------------------------------|---------------------------------------------------------------|
+### WORK EXPERIENCE  
+
 |Freelance 2022                      | I have experience in creating websites on platforms Wordpress.|
 |                                    | Website hosting and setup DNS.|
 |                                    |                                  |
