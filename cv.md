@@ -2,6 +2,10 @@
 ## **Frontend Developer (JavaScript)**
 ![foto](/foto.JPEG foto)
 
+### CONTACTS
+Linkedin: viktoria-stiniaeva
+Phone: +375(29)9670224
+E-mail: stiniaevaviktory@gmail.com
 ### ABOUT ME
 <p>My goal is to realize myself through work, to grow and develop as a specialist and as a person. I am interested in the continuous learning process in various fields such as IT, finance, psychology, personal growth.</p>
 
@@ -29,8 +33,22 @@ Freelance 2022                      | I have experience in creating websites on 
                                     | My work experience is associated with writing operational documentation,
                                     | drawing electrical wiring scheme, as well as maintaining internal documentation 
                                     | and documentation for public procurement, working with 1C:Enterprise.
-
-
-
+### COURSES (online)
+* JavaScript + React (Udemy, 2022)
+* JavaScript (RS-School; learn.javascript.ru, 2021-2022)
+* HTML (RS-School; ru.code-basics.com, 2021)
+* CSS (RS-School; ru.code-basics.com, 2021)
+### SKILLS
+* JavaScript, Node.js, React
+* HTML
+* CSS, Sass
+* Git, GitHub
+* Visual Studio Code, Chrome DevTools
+* Waterfall and Agile 
+* Wordpress
+### LANGUAGES
+* Russian – Native
+* English – Intermediate
+* Polish – Elementary
  
 
