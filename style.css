@@ -1,11 +1,3 @@
-header {
-
-}
-
-.main-info {
-
-}
-
-footer {
-    
+body {
+    display: flex;
 }
